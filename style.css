@@ -1,0 +1,97 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.125rem;
+}
+
+.nft-plate{
+    height: 41.7rem;
+    width: 25rem;
+    background-color: hsl(216, 50%, 16%);
+    margin: 3.125rem auto 1.25rem;
+    border-radius: .625rem;
+}
+
+hr{
+    border: none;
+    background-color: hsl(215, 51%, 70%);
+    height: .005625rem;
+    width: 85%;
+}
+
+.crypto{
+    height: 21.875rem;
+    width: 21.875rem;
+    margin: 1.5625rem;
+    border-radius: .9375rem
+}
+
+h1{
+    margin-top: 0;
+    width: 21.875rem;
+    padding-left: 1.5625rem;
+    color: white;
+}
+
+.main-p{
+    padding-left: 1.5625rem;
+    width: 21.875rem;
+    font-size: 1.125rem;
+    margin-bottom: 0;
+    color: hsl(215, 51%, 70%);
+}
+
+.eth{
+    padding-left: 1.5625rem;
+    display: inline-block;
+    
+}
+ 
+.time{
+    text-align: right;
+    padding-right: 1.5625rem;
+    display: inline-block;
+    margin-left: 8.5rem;
+}
+
+.time-des{
+    color: hsl(215, 51%, 70%);
+}
+
+.eth-icon{
+    margin-right: .3625rem;
+    float: left;
+    margin-top: .1875rem;
+}
+
+.eth-des{
+    color: hsl(178, 100%, 50%);
+}
+
+.time-icon{
+    margin-right: .3625rem;
+    float: left;
+    margin-top: .25rem;
+}
+
+.me-me{
+    height: 2.1875rem;
+    width: 2.1875rem;
+    margin-left: 1.5625rem;
+    margin-top: .625rem;
+    float: left;
+    border: .125rem solid;
+    border-color: hsl(215, 51%, 70%);
+    border-radius: 100%;
+}
+
+.me-des{
+    display: inline-block;
+    margin-top: 1.125rem;
+    margin-left: 2.4375rem;
+    color: white;
+}
+
+.span-a{
+    color: hsl(215, 51%, 70%);
+}
